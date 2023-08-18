@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/consultancy-app/static/css/main.3051c72d.css",
+    "main.js": "/consultancy-app/static/js/main.a62d198a.js",
+    "static/js/787.a2be88e5.chunk.js": "/consultancy-app/static/js/787.a2be88e5.chunk.js",
+    "static/media/peoplesittingtogetherheader1.jpg": "/consultancy-app/static/media/peoplesittingtogetherheader1.ade8ed9d3d73de1441be.jpg",
+    "static/media/vecteezy_creative-business-team-and-lightbulb-work-under-brilliant_17617566.jpg": "/consultancy-app/static/media/vecteezy_creative-business-team-and-lightbulb-work-under-brilliant_17617566.9d5dd4fec51bca0348a0.jpg",
+    "static/media/lastheader.avif": "/consultancy-app/static/media/lastheader.df033688472f7bf321bd.avif",
+    "static/media/smallchartman.avif": "/consultancy-app/static/media/smallchartman.8a2a6352c7c723d0de97.avif",
+    "static/media/header3.avif": "/consultancy-app/static/media/header3.0e200cbd2f99f28354f7.avif",
+    "static/media/header2.jpg": "/consultancy-app/static/media/header2.356035ae450f6db16468.jpg",
+    "index.html": "/consultancy-app/index.html",
+    "main.3051c72d.css.map": "/consultancy-app/static/css/main.3051c72d.css.map",
+    "main.a62d198a.js.map": "/consultancy-app/static/js/main.a62d198a.js.map",
+    "787.a2be88e5.chunk.js.map": "/consultancy-app/static/js/787.a2be88e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3051c72d.css",
+    "static/js/main.a62d198a.js"
+  ]
+}
