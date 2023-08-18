@@ -1,0 +1,26 @@
+.carousel-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    /* Adjust the height as needed */
+  }
+  
+  .carousel-image {
+    max-width: 40%;
+    max-height: 40%;
+    width: auto;
+    height: auto;
+    margin: 0 auto; /* Center the images horizontally */
+    margin-bottom: 20px;
+  }
+  
+  .owl-carousel .owl-nav {
+    position: absolute;
+    bottom: 30px; /* Adjust the vertical position as needed */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
